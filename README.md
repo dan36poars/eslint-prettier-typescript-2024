@@ -1,1 +1,1 @@
-# Eslit + Prettier
+# Eslit + Prettier with Typescript

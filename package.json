@@ -4,7 +4,9 @@
   "description": "eslint, prettier with typescript",
   "main": "main.ts",
   "scripts": {
-    "dev": "nodemon src/main.ts"
+    "dev": "nodemon src/main.ts",
+    "build": "tsc",
+    "prod": "node dist/main.js"
   },
   "author": "Daniel C.",
   "license": "ISC",

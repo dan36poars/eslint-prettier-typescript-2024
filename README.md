@@ -3,7 +3,7 @@
 - [x] Eslint
 - [x] Prettier
 - [x] Typescript
-- [ ] Jest (missing)
+- [x] Jest (missing)
 
 ## Install
 
@@ -27,6 +27,12 @@ $ yarn build
 
 ```shell
 $ yarn prod
+```
+
+## Test
+
+```shell
+$ yarn test
 ```
 
 Author: Daniel Corrêa. 🚀 💜

@@ -9,12 +9,13 @@ assignees: ''
 
 # Tarefas:
 - Fork o repositório.
+- Git: Inicie um repositório Git, faça commits progressivos e mantenha um histórico limpo.
 - Crie sua aplicação dentro da pasta projects/[seu-nome-GitHub]/
 -  HTML: Crie um arquivo HTML básico com a estrutura da página.
 -  CSS: Estilize a página para torná-la visualmente atraente.
 -  JavaScript: Implemente uma contagem regressiva de 10 a 1, atualizando a exibição a cada segundo.
--  Git: Inicie um repositório Git, faça commits progressivos e mantenha um histórico limpo.
--  GitHub: Faça o upload do seu código para um repositório público no GitHub.
+-  GitHub: Faça o upload do seu código para um repositório público no seu GitHub.
+- Abre uma `issue` para ser analisado e caso atenda os critérios será mesclado no branch principal.
 
 # Regras:
 
@@ -29,6 +30,4 @@ assignees: ''
 - Mantenha o design simples e responsivo.
 - Teste a aplicação em diferentes navegadores para garantir a compatibilidade.
 
-# Entrega:
-
-- Envie o link para o repositório do GitHub após concluir o desafio.
+Divirta-se! 🥳

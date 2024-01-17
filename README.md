@@ -1,9 +1,10 @@
 # ✨ Configuration on Typescript in 2024
 
+### Tecnologias
 - [x] Eslint
 - [x] Prettier
 - [x] Typescript
-- [x] Jest (missing)
+- [x] Jest
 
 ## Install
 

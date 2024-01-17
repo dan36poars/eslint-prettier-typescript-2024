@@ -27,3 +27,5 @@
 - Teste a aplicação em diferentes navegadores para garantir a compatibilidade.
 
 Divirta-se! 🥳
+
+Author: Daniel Corrêa 🚀 💜

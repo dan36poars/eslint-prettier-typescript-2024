@@ -7,6 +7,7 @@
 - Clone o repositório.
 - Adicione um remote chamado `upstream` com a url do repositório original para manter seu repósitorio local atualizado. `git remote add upstream https://github.com/dan36poars/eslint-prettier-typescript-2024.git`
 - Faça commits progressivos e mantenha um histórico limpo.
+- Crie uma branch `git checkout -b feat/community/<seu-nome-github>`
 - Crie sua aplicação dentro da pasta `projects/[seu-nome-GitHub]/`
 -  HTML: Crie um arquivo HTML básico com a estrutura da página.
 -  CSS: Estilize a página para torná-la visualmente atraente.

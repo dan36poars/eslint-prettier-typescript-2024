@@ -1,6 +1,6 @@
-# ✨ Configuration on Typescript in 2024
+# ✨ Setup to Typescript in 2024
 
-### Tecnologias
+## Tecnologias Utilizadas
 - [x] Eslint
 - [x] Prettier
 - [x] Typescript
@@ -35,5 +35,9 @@ $ yarn prod
 ```shell
 $ yarn test
 ```
+
+### CONTRIBUTING:
+
+Veja como participar do desafio [Challange web app](./docs/CONTRIBUTING.md) nesse repositório.
 
 Author: Daniel Corrêa. 🚀 💜

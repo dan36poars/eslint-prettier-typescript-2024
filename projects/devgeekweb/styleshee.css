@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: blueviolet;
+    color: #FFF;
+}
+
+h1 { 
+    font-size: 3rem; 
+    text-align: center;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.countdown {
+    width: 50%;
+    font-size: 4rem;
+    margin: 2rem 0 0;
+}
+

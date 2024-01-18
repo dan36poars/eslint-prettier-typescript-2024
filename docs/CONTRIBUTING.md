@@ -12,7 +12,7 @@
 -  HTML: Crie um arquivo HTML básico com a estrutura da página.
 -  CSS: Estilize a página para torná-la visualmente atraente.
 -  JavaScript: Implemente uma contagem regressiva de 10 a 1, atualizando a exibição a cada segundo.
--  GitHub: Faça o upload do seu código para um repositório público no seu GitHub.
+-  GitHub: Faça o upload do seu código para o repositório público do seu GitHub. `git push origin feat/community/<seu-nome-github>`
 - Abre uma `issue` para ser analisado e caso atenda os critérios será mesclado no branch principal.
 
 ### Regras:

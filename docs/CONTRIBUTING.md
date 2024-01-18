@@ -9,12 +9,12 @@
 - Faça commits progressivos e mantenha um histórico limpo.
 - Crie uma branch `git checkout -b feat/community/<seu-nome-github>`
 - Crie sua aplicação dentro da pasta `projects/[seu-nome-GitHub]/`
--  HTML: Crie um arquivo HTML básico com a estrutura da página.
--  CSS: Estilize a página para torná-la visualmente atraente.
--  JavaScript: Implemente uma contagem regressiva de 10 a 1, atualizando a exibição a cada segundo.
--  GitHub: Faça o upload do seu código para o repositório público do seu GitHub. `git push origin feat/community/<seu-nome-github>`
--  Realize um pull request(PR) do seu repositório no GitHub.
-- Abre uma `issue` para ser analisado e caso atenda os critérios será mesclado no branch principal.
+- HTML: Crie um arquivo HTML básico com a estrutura da página.
+- CSS: Estilize a página para torná-la visualmente atraente.
+- JavaScript: Implemente uma contagem regressiva de 10 a 1, atualizando a exibição a cada segundo.
+- GitHub: Faça o upload do seu código para o repositório público do seu GitHub. `git push origin feat/community/<seu-nome-github>`
+- Realize um `pull request`(PR) do seu repositório no GitHub.
+- Caso tudo esteja OK e os critérios atendidos, sua contribuição será mesclada no branch principal.
 
 ### Regras:
 
